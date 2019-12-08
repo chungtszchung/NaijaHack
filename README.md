@@ -5,7 +5,7 @@
 ### Team Members
 
 - Adefemi Micheal, adefemi171@gmail.com
-- Christopher Wuni, hollaraywaju@gmail.com
+- Christopher Wuni, christdam55@gmail.com
 
 
 
