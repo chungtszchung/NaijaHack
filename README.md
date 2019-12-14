@@ -6,6 +6,7 @@
 
 - Adefemi Micheal, adefemi171@gmail.com
 - Christopher Wuni, christdam55@gmail.com
+- Micheal Efemana, Mefemena@gmail.com
 
 
 
@@ -30,6 +31,15 @@ JavaScript (React Native), NodeJs, Django and MongoDB
 # Top-level directory layout
 
     └── README.md
+    └── CASS
+        └── assets
+        └── node_modules
+        └── src
+    └── UI
+        └── contain UI for the App
+    └── API
+        └── 
+
 
 
 # How to setup project and run locally
